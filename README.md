@@ -18,23 +18,6 @@ Business Insight 360 is an interactive Power BI dashboard designed to analyze bu
 - Excel
 - SQL
 
-## Dashboard Preview
-
-### Home Page
-![Home Page](screenshots/homepage.png)
-
-### Finance View
-![Finance Dashboard](screenshots/finance.png)
-
-### Sales View
-![Sales Dashboard](screenshots/sales.png)
-
-### Marketing View
-![Marketing Dashboard](screenshots/marketing.png)
-
-### Supply Chain View
-![Supply Chain Dashboard](screenshots/supplychain.png)
-
 ## Key Metrics
 - Net Sales
 - Gross Margin
